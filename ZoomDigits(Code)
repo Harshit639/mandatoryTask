@@ -197,8 +197,7 @@ void zoomDigits(int number)
             continue;
         }
     }
-}
-  
+} 
 int main()
 {
     long long number = 12305;
