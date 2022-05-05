@@ -1,0 +1,5 @@
+Explanation
+
+ -> In this code, we are zooming in the integer number given as input.
+ -> The given number is first converted to string using stringstream. 
+ -> After that, each character (digit) is accessed and put to switch-case structure which ZOOMED each digit and printed in the form of pattern.
